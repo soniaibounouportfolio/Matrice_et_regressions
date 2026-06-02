@@ -1,1 +1,1 @@
-# Matrice et regressions
+# Matrices and regressions
